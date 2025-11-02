@@ -17,12 +17,7 @@ Projelerde özellikle aşağıdaki konular üzerinde durulmuştur:
 
 ---
 
-## Öğrenilen Konular
-- 
-- 
-- 
 
----
 
 ## DEVELOPER
 **AD SOYAD :** _Hasan Berk Kurum_
